@@ -2,6 +2,7 @@
   "compilerOptions": {
       "outDir": "./dist/",
       "sourceMap": true,
+      "sourceRoot": "./tsx",
       "noImplicitAny": true,
       "module": "commonjs",
       "target": "es5",
